@@ -6,16 +6,16 @@
 				<!--Footer Info -->
 				<div class="row footer-info mb-60">
 					<div class="col-lg-3 col-md-4 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">CONTACT Us</h4>
+						<h4 class="mb-30">Contactez nous</h4>
 						<address>
-							<i class="ion-ios-location fa-icons"></i> 123 Main Street, St. NW Ste, 1 Washington, DC,USA.
+							<i class="ion-ios-location fa-icons"></i> Abijan, Yopougon complex immeuble ORABANK.
 						</address>
 						<ul class="link-small">
 							<li>
-								<a href="mailto:business@support.com"><i class="ion-ios-email fa-icons"></i>business@support.com</a>
+								<a href="contact.php"><i class="ion-ios-email fa-icons"></i>contact@ifc.ci</a>
 							</li>
 							<li>
-								<a><i class="ion-ios-telephone fa-icons"></i>+56 (0) 012 345 6789</a>
+								<a><i class="ion-ios-telephone fa-icons"></i>+225 21 23 40 77 90 <br>+225 07 88 77 07 06</a>
 							</li>
 						</ul>
 						<div class="icons-hover-black">
@@ -23,65 +23,26 @@
 						</div>
 					</div>
 					<div class="col-lg-2 col-md-3 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">Links</h4>
+						<h4 class="mb-30">Liens</h4>
 						<ul class="link blog-link">
-							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> About Us</a>
+                            <li>
+								<a href="index.php"><i class="fa fa-angle-double-right"></i> Accueil</a>
 							</li>
 							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Services</a>
+								<a href="about.php"><i class="fa fa-angle-double-right"></i> A propos</a>
 							</li>
 							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Privacy policy</a>
+								<a href="services.php"><i class="fa fa-angle-double-right"></i> Nos services</a>
 							</li>
 							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Terms &amp; condition</a>
+								<a href="projet.php"><i class="fa fa-angle-double-right"></i> Nos projets</a>
+							</li>
+							<li>
+								<a href="contact.php"><i class="fa fa-angle-double-right"></i> Contactez-nous</a>
 							</li>
 						</ul>
 					</div>
-					<div class="col-lg-3 col-md-5 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">Latest Blog</h4>
-						<div class="widget-details link">
-							<div class="post-type-post media">
-								<div class="entry-thumbnail media-left">
-									<img src="assets/images/blog/small-img.jpg" alt="Image">
-								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
-									<p class="entry-title">
-										<a href="javascript:avoid(0);">minim veniam, quis nostrud exercitation</a>
-									</p>
-									<div class="post-meta">
-										On
-										<time datetime="2018-02-10">
-											10 Feb, 2018
-										</time>
-									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
-							</div>
-							<div class="post-type-post media">
-								<div class="entry-thumbnail media-left">
-									<img src="assets/images/blog/small-img1.jpg" alt="Image">
-								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
-									<p class="entry-title">
-										<a href="javascript:avoid(0);">minim veniam, quis nostrud exercitation</a>
-									</p>
-									<div class="post-meta">
-										On
-										<time datetime="2018-02-10">
-											10 Feb, 2018
-										</time>
-									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
-							</div>
-						</div>
-					</div>
+					
 					<div class="col-lg-4 col-md-12 col-xs-12 mt-sm-30 mt-xs-15">
 						<div class="newsletter">
 							<h4 class="mb-30">NEWSLETTER SIGNUP</h4>
@@ -103,7 +64,7 @@
 			<div class="copyright">
 				<div class="container">
 					<p class="">
-						<a href="https://www.templateshub.net" target="_blank">Templates Hub</a>
+						<a href="javascript:avoid(0);" >Copyright 2021 Tous droit réservé</a>
 					</p>
 				</div>
 			</div>

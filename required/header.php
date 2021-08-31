@@ -8,7 +8,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title><?php  if(isset($title)){ echo $title; }  ?></title>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		<link rel="shortcut icon" href="favicon.png">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 		<link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
