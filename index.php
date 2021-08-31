@@ -1,6 +1,8 @@
 <?php
 
+$title = 'Accueil';
 require_once 'required/header.php';
+
 
 
 ?>

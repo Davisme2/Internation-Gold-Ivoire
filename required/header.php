@@ -2,13 +2,12 @@
 
 <!DOCTYPE html>
 <html lang="fr">
-	
-<!--  01:03 GMT -->
+
 <head>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Buildque - Construction Template for Architect and Construction</title>
+		<title><?php  if(isset($title)){ echo $title; }  ?></title>
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -67,19 +66,19 @@
 							<nav class="navigation">
 								<ul>
 									<li>
-										<a href="index.html">Accueil</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="index.php">Accueil</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 									<li>
-										<a href="about.html">A propos</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="about.php">A propos</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 									<li>
-										<a href="services.html">Nos services</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="services.php">Nos services</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 									<li>
-										<a href="projet.html">Nos projets</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="projet.php">Nos projets</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 									<li>
-										<a href="contact.html">Contact</a><i class="ion-ios-plus-empty hidden-md-up"></i>
+										<a href="contact.php">Contact</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 								</ul>
 							</nav>
