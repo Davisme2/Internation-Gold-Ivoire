@@ -1,94 +1,10 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-	
-<!-- about314:31 GMT -->
-<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Buildque - Construction Template for Architect and Construction</title>
-		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
-		<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/font-awesome.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/ionicons.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/flaticon.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/simple-line-icons.css" rel="stylesheet" type="text/css">
-		<link href="assets/css/animate.css" type="text/css" rel="stylesheet">
-		<link href="assets/css/jquery-ui.min.css" type="text/css" rel="stylesheet">
+﻿<?php
 
-		<!--Main Slider-->
-		<link href="assets/css/settings.css" type="text/css" rel="stylesheet" media="screen">
-		<link href="assets/css/layers.css" type="text/css" rel="stylesheet" media="screen">
+$title = 'A propos';
 
-		<link href="assets/css/style.css" type="text/css" rel="stylesheet">
-		<link href="assets/css/header.css" type="text/css" rel="stylesheet">
-		<link href="assets/css/footer.css" type="text/css" rel="stylesheet">
-		<link href="assets/css/theme-color/default.css" rel="stylesheet" type="text/css" id="theme-color" />
+include 'required/header.php';
+?>
 
-	</head>
-	<body>
-		<!--loader-->
-		<div id="preloader">
-			<div class="sk-circle">
-				<div class="sk-circle1 sk-child"></div>
-				<div class="sk-circle2 sk-child"></div>
-				<div class="sk-circle3 sk-child"></div>
-				<div class="sk-circle4 sk-child"></div>
-				<div class="sk-circle5 sk-child"></div>
-				<div class="sk-circle6 sk-child"></div>
-				<div class="sk-circle7 sk-child"></div>
-				<div class="sk-circle8 sk-child"></div>
-				<div class="sk-circle9 sk-child"></div>
-				<div class="sk-circle10 sk-child"></div>
-				<div class="sk-circle11 sk-child"></div>
-				<div class="sk-circle12 sk-child"></div>
-			</div>
-		</div>
-		<!--loader-->
-
-		<!-- header Start -->
-		<header id="header" class="header">
-
-			<div class="nav-wrap">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-3">
-							<div class="logo">
-								<a href="index.html"><img src="assets/images/logo.png" alt="logo icf" width="150" height="auto"></a>
-							</div>
-							<!-- Phone Menu button -->
-							<button id="menu" class="menu hidden-md-up"></button>
-						</div>
-						<div class="col-md-9 nav-bg d-flex align-items-center">
-							<nav class="navigation">
-								<ul>
-									<li>
-										<a href="index.html">Accueil</a><i class="ion-ios-plus-empty hidden-md-up"></i>
-									</li>
-
-									<li>
-										<a href="about.html">A propos</a><i class="ion-ios-plus-empty hidden-md-up"></i>
-									</li>
-									<li>
-										<a href="services.html">Nos services</a><i class="ion-ios-plus-empty hidden-md-up"></i>
-									</li>
-									<li>
-										<a href="projet.html">Nos projets</a><i class="ion-ios-plus-empty hidden-md-up"></i>
-									</li>
-									<li>
-										<a href="contact.html">Contact</a><i class="ion-ios-plus-empty hidden-md-up"></i>
-									</li>
-								</ul>
-							</nav>
-						</div>
-					</div>
-				</div>
-			</div>
-		</header>
-		<!--Header End-->
-		
 		
 		<!-- CONTENT -->
 		<!-- Intro Section -->
@@ -487,118 +403,12 @@
 		</section>
 		<!-- Testimonial -->
 
-		<!-- footer -->
-		<!-- FOOTER -->
-		<footer class="footer pt-80 pt-xs-60">
-			<div class="container">
-				<!--Footer Info -->
-				<div class="row footer-info mb-60">
-					<div class="col-lg-3 col-md-4 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">CONTACT Us</h4>
-						<address>
-							<i class="ion-ios-location fa-icons"></i> 123 Main Street, St. NW Ste, 1 Washington, DC,USA.
-						</address>
-						<ul class="link-small">
-							<li>
-								<a href="mailto:business@support.com"><i class="ion-ios-email fa-icons"></i>business@support.com</a>
-							</li>
-							<li>
-								<a><i class="ion-ios-telephone fa-icons"></i>+56 (0) 012 345 6789</a>
-							</li>
-						</ul>
-						<div class="icons-hover-black">
-							<a href="javascript:avoid(0);"> <i class="fa fa-facebook"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-twitter"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-youtube"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-dribbble"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-linkedin"></i> </a>
-						</div>
-					</div>
-					<div class="col-lg-2 col-md-3 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">Links</h4>
-						<ul class="link blog-link">
-							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> About Us</a>
-							</li>
-							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Services</a>
-							</li>
-							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Privacy policy</a>
-							</li>
-							<li>
-								<a href="javascript:avoid(0);"><i class="fa fa-angle-double-right"></i> Terms &amp; condition</a>
-							</li>
-						</ul>
-					</div>
-					<div class="col-lg-3 col-md-5 col-xs-12 mb-sm-30">
-						<h4 class="mb-30">Latest Blog</h4>
-						<div class="widget-details link">
-							<div class="post-type-post media">
-								<div class="entry-thumbnail media-left">
-									<img src="assets/images/blog/small-img.jpg" alt="Image">
-								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
-									<p class="entry-title">
-										<a href="javascript:avoid(0);">minim veniam, quis nostrud exercitation</a>
-									</p>
-									<div class="post-meta">
-										On
-										<time datetime="2018-02-10">
-											10 Feb, 2018
-										</time>
-									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
-							</div>
-							<div class="post-type-post media">
-								<div class="entry-thumbnail media-left">
-									<img src="assets/images/blog/small-img1.jpg" alt="Image">
-								</div>
-								<!-- /.entry-thumbnail -->
-								<div class="post-content media-body">
-									<p class="entry-title">
-										<a href="javascript:avoid(0);">minim veniam, quis nostrud exercitation</a>
-									</p>
-									<div class="post-meta">
-										On
-										<time datetime="2018-02-10">
-											10 Feb, 2018
-										</time>
-									</div>
-									<!-- /.post-meta -->
-								</div>
-								<!-- /.post-content -->
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 col-md-12 col-xs-12 mt-sm-30 mt-xs-30">
-						<div class="newsletter">
-							<h4 class="mb-30">NEWSLETTER SIGNUP</h4>
-							<p>
-								Subscribe to Our Newsletter to get Important News, Amazing Offers & Inside Scoops:
-							</p>
-							<form>
-								<input type="email" class="newsletter-input input-md newsletter-input mb-0" placeholder="Enter Your Email">
-								<button class="newsletter-btn btn btn-xs btn-color" type="submit" value="">
-									<i class="fa fa-angle-right mr-0"></i>
-								</button>
-							</form>
-						</div>
-					</div>
-				</div>
-				<!-- End Footer Info -->
-			</div>
-			<!-- Copyright Bar -->
-			<div class="copyright">
-				<div class="container">
-					<p class="">
-						<a href="https://www.templateshub.net" target="_blank">Templates Hub</a>
-					</p>
-				</div>
-			</div>
-			<!-- End Copyright Bar -->
-		</footer>
-		<!-- END FOOTER -->
-		<!-- End footer -->
+	<!-- Footer -->
+
+		<?php include 'required/footer.php'; ?>
+		
+	<!-- End_Footer -->
+
 		<!-- Site Wraper End -->
 		<!-- Site Wraper End -->
 		<script type="text/javascript" src="assets/js/jquery.min.js"></script>
