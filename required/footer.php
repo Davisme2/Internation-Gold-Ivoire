@@ -22,7 +22,8 @@
 							<a href="javascript:avoid(0);"> <i class="fa fa-facebook"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-twitter"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-youtube"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-dribbble"></i> </a><a href="javascript:avoid(0);"> <i class="fa fa-linkedin"></i> </a>
 						</div>
 					</div>
-					<div class="col-lg-2 col-md-3 col-xs-12 mb-sm-30">
+                    <div class="col-lg-2 col-md-1 col-xs-4 mb-sm-30"></div>
+					<div class="col-lg-3 col-md-3 col-xs-12 mb-sm-30">
 						<h4 class="mb-30">Liens</h4>
 						<ul class="link blog-link">
                             <li>
@@ -42,8 +43,8 @@
 							</li>
 						</ul>
 					</div>
-					
-					<div class="col-lg-4 col-md-12 col-xs-12 mt-sm-30 mt-xs-15">
+					<div class="col-lg-1 col-md-1 col-xs-4 mb-sm-30"></div>
+					<div class="col-lg-3 col-md-4 col-xs-12 mt-sm-30 mt-xs-15">
 						<div class="newsletter">
 							<h4 class="mb-30">NEWSLETTER SIGNUP</h4>
 							<p>
