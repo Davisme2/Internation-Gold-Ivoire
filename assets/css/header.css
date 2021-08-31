@@ -87,7 +87,6 @@
 	font-size: 18px;
 	font-weight: 500;
 	text-decoration: none;
-	text-transform: uppercase;
 }
 .navigation > ul > li > a {
 	display: block;
@@ -168,10 +167,10 @@
 		margin-left: 0;
 	}
 	.navigation > ul > li > a {
-		padding: 43px 10px;
+		padding: 12px 4px;
 	}
 	.menu-bg .navigation > ul > li > a{
-		padding: 15px 10px;
+		padding: 11px 3px;
 	}
 	.navigation .sub-nav {
 		left: -27px;
@@ -193,11 +192,13 @@
 		display: none;
 	}
 	.header{
-		background: #159085;
+		background: #fff;
 	}
 	.menu{
-		border-bottom: 4px solid #fff;
-    border-top: 4px solid #fff
+		border-bottom: 4px solid 
+		#334049;
+    border-top: 4px solid 
+	#334049
 	}
 	.menu:after{
 		background: #fff;
@@ -261,5 +262,19 @@
 	}
 
 
+	
+}
+
+@media (max-width: 425px) {
+	.header{
+		background-color: 
+		#334049;
+	}
+	.menu{
+		border-bottom: 4px solid 
+		#fff;
+    border-top: 4px solid 
+	#fff
+	}	
 	
 }

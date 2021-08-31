@@ -65,7 +65,7 @@
 						<div class="col-md-9 nav-bg d-flex align-items-center">
 							<nav class="navigation">
 								<ul>
-									<li>
+									<li class="active">
 										<a href="index.php">Accueil</a><i class="ion-ios-plus-empty hidden-md-up"></i>
 									</li>
 									<li>
